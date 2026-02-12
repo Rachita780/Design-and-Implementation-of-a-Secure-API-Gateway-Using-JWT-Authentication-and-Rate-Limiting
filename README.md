@@ -150,6 +150,3 @@ The API was tested using **Postman**:
 * Production deployment using WSGI server
 
 ---
-
-
-**Rachita**
